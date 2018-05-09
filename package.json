@@ -1,5 +1,5 @@
 {
-  "name": "william kohler's palindrome",
+  "name": "william_kohler_palindrome",
   "version": "1.0.0",
   "description": "Palindrome detector",
   "main": "index.js",
