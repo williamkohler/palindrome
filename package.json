@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/williamkohler/palindrome/issues"
   },
-  "homepage": "https://github.com/williamkohler/palindrome#readme"
+  "homepage": "https://github.com/williamkohler/palindrome#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.1"
+  }
 }
